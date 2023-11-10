@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
 public class SampleController {
-//a
-	
+//石田です。
+	//a
 }
